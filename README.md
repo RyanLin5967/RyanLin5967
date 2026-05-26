@@ -21,4 +21,4 @@ Currently building **[ferrodb](https://github.com/RyanLin5967/ferrodb)**, a rela
 
 ### Awards
 
-FRC World Championships qualifier · AIME Qualifier · Euclid Contest top 6.5% · $1,200 earned from shipped projects
+FRC World Championships Qualifier · AIME Qualifier · Euclid Contest top 6.5% · $1,200 earned from shipped projects
