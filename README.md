@@ -13,12 +13,13 @@ Currently building **[ferrodb](https://github.com/RyanLin5967/ferrodb)**, a rela
 ### Tech
 
 **Languages:** Python · Java · Rust · TypeScript · JavaScript · SQL · Bash  
-**Frontend:** React · React Native · Expo · Tailwind · TanStack Query · Vite · Next.js  
+**Frontend:** React · React Native · Expo · Vite · Next.js · Tailwind · TanStack Query  
 **Backend:** FastAPI · Node.js · Express.js · SQLAlchemy  
 **ML/CV:** PyTorch · OpenCV · pgvector  
 **Databases:** PostgreSQL · MongoDB · SQLite  
-**Infra:** Docker · Kubernetes · GitHub Actions · Hugging Face Spaces · Linux
+**Infra:** Docker · Kubernetes · GitHub Actions · Hugging Face Spaces · Linux  
+**Dev Tools:** Git · Pytest · Jest · Jupyter Notebook  
 
 ### Awards
 
-FRC World Championships Qualifier · AIME Qualifier · Euclid Contest top 6.5% · $1,200 earned from shipped projects
+$1,200 earned from shipped projects · FRC World Championships Qualifier · AIME Qualifier · Euclid Contest top 6.5%
