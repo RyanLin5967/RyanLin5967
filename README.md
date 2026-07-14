@@ -6,7 +6,7 @@ Currently building **[ferrodb](https://github.com/RyanLin5967/ferrodb)**, a rela
 ### Projects
 
 - **[ferrodb](https://github.com/RyanLin5967/ferrodb)** — Relational database engine from scratch in Rust
-- **[DeadWeight](https://github.com/RyanLin5967/DeadWeight)** — Website carbon waste scanner (🏆 1st, Hack Club Atlas Hackathon 2026)
+- **[DeadWeight](https://github.com/RyanLin5967/DeadWeight)** — Website carbon waste scanner (🏆 1st, Hack Club Hackathon 2026)
 - **[ForgeFind](https://github.com/RyanLin5967/ForgeFind)** — Image forgery detection with PyTorch + OpenCV (1,000+ users)
 - **[pic2recipe](https://github.com/RyanLin5967/pic2recipe)** — Photo → recipe app with semantic search over 2.2M recipes
 
