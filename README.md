@@ -1,14 +1,14 @@
 # Hey, I'm Ryan 👋
 Incoming **Management Engineering** @ **University of Waterloo** (Fall 2026).
 
-Currently building **[ferrodb](https://github.com/RyanLin5967/ferrodb)**, a relational database from scratch in Rust with B+ trees, WAL, MVCC, a cost-based optimizer, and Postgres wire protocol.
+Currently building **FschoolAI**, a shared memory layer for agents.
 
 ### Projects
 
 - **[ferrodb](https://github.com/RyanLin5967/ferrodb)** — Relational database engine from scratch in Rust
-- **[DeadWeight](https://github.com/RyanLin5967/DeadWeight)** — Website carbon waste scanner (🏆 1st, Hack Club Hackathon 2026)
-- **[ForgeFind](https://github.com/RyanLin5967/ForgeFind)** — Image forgery detection with PyTorch + OpenCV (1,000+ users)
-- **[pic2recipe](https://github.com/RyanLin5967/pic2recipe)** — Photo → recipe app with semantic search over 2.2M recipes
+- **[DeadWeight](https://github.com/RyanLin5967/DeadWeight)** — Website carbon waste scanner (🏆 1st, Hack Club Hackathon 2026)  
+- **[ForgeFind](https://github.com/RyanLin5967/ForgeFind)** — Image forgery detection with PyTorch + OpenCV  
+- **[pic2recipe](https://github.com/RyanLin5967/pic2recipe)** — Photo → recipe app with semantic search over 2.2M recipes (2k+ users)  
 
 ### Tech
 
@@ -22,4 +22,4 @@ Currently building **[ferrodb](https://github.com/RyanLin5967/ferrodb)**, a rela
 
 ### Awards
 
-$1,200 earned from shipped projects · FRC World Championships Qualifier · AIME Qualifier · Euclid top 6%
+$1,200 earned from shipped projects · FRC World Championships Qualifier · AIME Qualifier · Euclid top 6% · 3x Hackathon Winner
