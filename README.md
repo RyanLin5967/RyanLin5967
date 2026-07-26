@@ -1,7 +1,7 @@
 # Hey, I'm Ryan 👋
 Incoming **Management Engineering** @ **University of Waterloo** (Fall 2026).
 
-Currently building **FschoolAI**, a shared memory layer for agents.
+Currently a Founding Engineer @ **FschoolAI**, building a shared memory layer for agents.
 
 ### Projects
 
