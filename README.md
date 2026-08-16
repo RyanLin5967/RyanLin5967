@@ -1,7 +1,7 @@
 # Hey, I'm Ryan 👋
 Incoming **Management Engineering** @ **University of Waterloo** (Fall 2026).
 
-Currently a Founding Engineer @ **FschoolAI**, building a shared memory layer for agents, training multimodal LLMs, and architecting database internals.
+Currently a Founding Engineer @ **FschoolAI**, architecting database internals, working on agent infra, and training multimodal LLMs.
 
 ### Projects
 
@@ -12,12 +12,12 @@ Currently a Founding Engineer @ **FschoolAI**, building a shared memory layer fo
 
 ### Tech
 
-**Languages:** Python · Java · Rust · TypeScript · JavaScript · SQL · Bash · Go 
+**Languages:** Python · Java · Rust · TypeScript · JavaScript · SQL · Bash · Go  
 **Frontend:** React · React Native · Expo · Vite · Next.js · Tailwind · TanStack Query  
 **Backend:** FastAPI · Node.js · Express.js · SQLAlchemy  
 **ML/CV:** PyTorch · OpenCV · pgvector  
-**Databases:** PostgreSQL · MongoDB · SQLite · MySQL · DynamoDB
-**Infra:** Docker · Kubernetes · GitHub Actions · Hugging Face Spaces · Linux · Kafka
+**Databases:** PostgreSQL · MongoDB · SQLite · MySQL · DynamoDB  
+**Infra:** Docker · Kubernetes · GitHub Actions · Hugging Face Spaces · Linux · Kafka  
 **Dev Tools:** Git · Pytest · Jest · Jupyter Notebook  
 
 ### Awards
