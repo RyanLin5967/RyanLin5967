@@ -5,7 +5,7 @@ Currently a Founding Engineer @ **FschoolAI**, building a shared memory layer fo
 
 ### Projects
 
-- **[ferrodb](https://github.com/RyanLin5967/ferrodb)** — Distributed database for AI Agents
+- **[ferrodb](https://github.com/RyanLin5967/ferrodb)** — Database for AI Agents
 - **[DeadWeight](https://github.com/RyanLin5967/DeadWeight)** — Website carbon waste scanner (🏆 1st, Hack Club Hackathon 2026)  
 - **[ForgeFind](https://github.com/RyanLin5967/ForgeFind)** — Image forgery detection with PyTorch + OpenCV  
 - **[pic2recipe](https://github.com/RyanLin5967/pic2recipe)** — Photo → recipe app with semantic search over 2.2M recipes (2k+ users)  
