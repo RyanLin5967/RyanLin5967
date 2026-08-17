@@ -17,7 +17,7 @@ Currently a Founding Engineer @ **FschoolAI**, architecting database internals, 
 **Backend:** FastAPI · Node.js · Express.js · SQLAlchemy  
 **ML/CV:** PyTorch · OpenCV · pgvector  
 **Databases:** PostgreSQL · MongoDB · SQLite · MySQL · DynamoDB  
-**Infra:** Docker · Kubernetes · GitHub Actions · Hugging Face Spaces · Linux · Kafka  
+**Infra:** Docker · Kubernetes · Terraform · Helm ·  Kafka · GitHub Actions ·  Linux · Hugging Face Spaces   
 **Dev Tools:** Git · Pytest · Jest · Jupyter Notebook  
 
 ### Awards
