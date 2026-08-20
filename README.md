@@ -22,4 +22,4 @@ Currently a Founding Engineer @ **FschoolAI**, architecting database internals, 
 
 ### Awards
 
-$1,200 earned from shipped projects · FRC World Championships Qualifier · AIME Qualifier · Euclid top 6% · 3x Hackathon Winner
+$1,200 earned from shipped projects · FRC World Championships Qualifier · AIME Qualifier · Euclid top 6% · 4x Hackathon Winner
