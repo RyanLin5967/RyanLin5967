@@ -1,7 +1,7 @@
 # Hey, I'm Ryan 👋
 Incoming **Management Engineering** @ **University of Waterloo** (Fall 2026).
 
-Currently a Founding Engineer @ **FschoolAI**, architecting database internals, working on agent infra, and training multimodal LLMs.
+Currently a Software Engineering Intern @ **Moonshot (YC S26)**, owning the memory layer + proactivity.
 
 ### Projects
 
