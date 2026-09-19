@@ -1,5 +1,5 @@
 # Hey, I'm Ryan 👋
-Incoming **Management Engineering** @ **University of Waterloo** (Fall 2026).
+I'm studying Engineering @ **University of Waterloo**
 
 Currently a Software Engineering Intern @ **Moonshot (YC S26)**, owning the memory layer + proactivity.
 
