@@ -1,7 +1,7 @@
 # Hey, I'm Ryan 👋
 I'm studying Engineering @ **University of Waterloo**
 
-Currently a Software Engineering Intern @ **Moonshot (YC S26)**, owning the memory layer + proactivity.
+Currently a Software Engineering Intern @ **Roboflow**.
 
 ### Projects
 
